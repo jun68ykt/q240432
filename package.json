@@ -1,0 +1,14 @@
+{
+  "name": "q240432",
+  "version": "1.0.0",
+  "description": "answer and tests for Q240432 of teratail",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jun68ykt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
